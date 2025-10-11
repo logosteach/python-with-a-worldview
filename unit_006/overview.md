@@ -298,5 +298,5 @@
   - *Exercise*: 
     1. Refactor a sorting function (e.g., bubble sort) to include a docstring and error handling for empty lists.
     2. Modify the `Queue` class to raise a custom error if enqueuing an invalid item (e.g., empty string).
-   
-    3. &copy; 2025 LogosTeach - All Rights Reserved
+
+&copy; 2025 LogosTeach - All Rights Reserved
