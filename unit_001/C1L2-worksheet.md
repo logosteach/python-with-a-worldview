@@ -35,3 +35,64 @@ This worksheet builds on your knowledge from Lesson 1 (data types: int, float, s
 
 5. **Creative Use of Escape Characters**  
    Write Python code to print the following exactly as shown (including spacing):  
+   ```
+   Item        Price
+   Apple       0.50
+   Banana      0.75
+   ```
+
+## Part 4: String Multipliers
+6. **String Multiplier Practice**  
+   Write Python code to:  
+   a. Print the string "Hi!" five times in a row (e.g., "Hi!Hi!Hi!Hi!Hi!") using a string multiplier.  
+   b. Print a line of 10 asterisks (`**********`) using a string multiplier.  
+   c. Combine a string multiplier with a newline (`\n`) to print "Hello" three times, each on a new line.
+
+## Part 5: White Space
+7. **Understanding White Space**  
+   Explain how white space affects the following code snippets. Then, run them and describe the output.  
+   a. 
+   ```python
+   print("Hello   World")
+   ```
+   b. 
+   ```python
+   print("Hello\tWorld")
+   ```
+   c. 
+   ```python
+   print("Hello\nWorld")
+   ```
+
+8. **Formatting with White Space and Multipliers**  
+   Write Python code to print a simple box-like structure using string multipliers and white space, like this:  
+   ```
+   ******
+   *    *
+   *    *
+   ******
+   ```
+
+## Part 6: Mixed Practice
+9. **Debug the Code**  
+   The following code has errors related to escape characters, string multipliers, or the `print()` function. Fix the issues and explain what was wrong.  
+   ```python
+   message = "Welcome to Python!"
+   print(message * 2 + \n + "Done!")
+   ```
+
+10. **Combined Concepts**  
+    Write Python code to:  
+    a. Create a variable `item_name` with the value `"Pizza"`.  
+    b. Create a variable `price` with the value `9.99`.  
+    c. Use a single `print()` statement with escape characters and a string multiplier to display:  
+    ```
+    Item: Pizza
+    Price: $9.99
+    --------------------
+    ```
+
+## Submission
+Write your answers and Python code in a script or notebook. Include comments to explain your work. Submit your completed worksheet to your instructor.
+
+&copy; 2025 LogosTeach - All Rights Reserved
