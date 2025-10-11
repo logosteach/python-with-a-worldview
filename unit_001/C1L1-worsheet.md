@@ -1,4 +1,6 @@
-# Python Basics Worksheet
+# Worksheet - C1L1
+
+## Variables and Data Types
 
 ## Instructions
 Complete the following exercises to practice the Python concepts you've learned: data types (int, float, str), variable assignment, naming conventions, the `type()` function, and order of operations (+, -, *, /, **). Write your answers in a Python script or notebook. Do **not** use type conversion functions (`int()`, `float()`, `str()`) as these have not been covered yet.
