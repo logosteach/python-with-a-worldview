@@ -59,3 +59,5 @@ Complete the following exercises to practice the Python concepts you've learned:
    quantity = 3
    total_cost = item_price * quantity
    print("Total cost is" + total_cost)
+
+&copy; 2025 LogosTeach - All Rights Reserved
