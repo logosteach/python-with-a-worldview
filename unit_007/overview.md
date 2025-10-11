@@ -284,4 +284,4 @@
     1. Write a `unittest` test case with descriptive method names and docstrings for a string length function.
     2. Refactor a `pytest` test from a previous exercise to include a docstring and clear test names, using `assert`.
    
-@copy; 2025 LogosTeach - All Rights Reserved
+&copy; 2025 LogosTeach - All Rights Reserved
