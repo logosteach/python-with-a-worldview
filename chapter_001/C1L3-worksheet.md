@@ -100,4 +100,4 @@ Area:   19.63
 ## Submission
 Write your answers and Python code in a script or notebook. Include comments explaining your formatting choices. Submit your completed worksheet to your instructor.
 
-&copy; 2025 LogosTeach - All Rights Reserved
+&copy; 2026 LogosTeach - All Rights Reserved

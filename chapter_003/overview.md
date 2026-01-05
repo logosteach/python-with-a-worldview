@@ -181,3 +181,5 @@
   - *Exercise*: 
     1. Write a function that takes a string and converts it to an integer, handling invalid inputs.
     2. Create a function that checks if a parameter is positive, raising an error if not (use `raise ValueError`).
+
+&copy; 2026 LogosTeach - All Rights Reserved

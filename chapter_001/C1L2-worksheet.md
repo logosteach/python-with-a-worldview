@@ -107,4 +107,4 @@ Price: $9.99
 ## Submission
 Write your answers and Python code in a script or notebook. Include comments to explain your work. Submit your completed worksheet to your instructor.
 
-&copy; 2025 [LogosTeach](https://www.logosteach.com) - All Rights Reserved
+&copy; 2026 [LogosTeach](https://www.logosteach.com) - All Rights Reserved

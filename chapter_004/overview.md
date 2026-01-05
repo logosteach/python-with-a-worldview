@@ -242,3 +242,5 @@
   - *Exercise*: 
     1. Create a `BankAccount` class with a docstring and a method that raises an error for negative deposits.
     2. Refactor a class from a previous exercise to include a docstring and better attribute names.
+
+&copy; 2026 LogosTeach - All Rights Reserved

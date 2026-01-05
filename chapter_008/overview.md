@@ -232,4 +232,4 @@
     1. Create a Polars and Pandas DataFrame with identical data; compare their filtering output.
     2. Write a program that measures the time to group and aggregate a Polars vs. Pandas DataFrame.
    
-&copy; 2025 LogosTeach - All Rights Reserved
+&copy; 2026 LogosTeach - All Rights Reserved

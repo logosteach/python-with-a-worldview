@@ -50,4 +50,4 @@ This worksheet builds on your knowledge from previous lessons (data types, varia
    b. Convert `3.14159` to str with slicing or just format: but use `f"{float_num:.2f}"` then pad.  
    c. Create table of conversions:  
 
-&copy; 2025 [LogosTeach](https://www.logosteach.com) - All Rights Reserved
+&copy; 2026 [LogosTeach](https://www.logosteach.com) - All Rights Reserved

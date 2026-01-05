@@ -255,3 +255,5 @@
   - *Exercise*: 
     1. Use indexing to print the last character of a string.
     2. Slice a string to extract the middle three characters and concatenate it with another string.
+
+&copy; 2026 LogosTeach - All Rights Reserved

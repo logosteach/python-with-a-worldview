@@ -158,5 +158,5 @@ c. A common error: Trying language[6] on "Python" (length 6). What happens? Fix 
 ```
 
 <footer>
-&copy; 2025 <a href="https://www.logosteach.com">LogosTeach</a> - All Rights Reserved
+&copy; 2026 <a href="https://www.logosteach.com">LogosTeach</a> - All Rights Reserved
 </footer>

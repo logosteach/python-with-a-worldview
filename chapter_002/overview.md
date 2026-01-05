@@ -200,3 +200,5 @@
   - *Exercise*: 
     1. Refactor a program from a previous exercise to follow PEP 8 (e.g., proper spacing, meaningful names).
     2. Write a program with comments explaining a conditional that uses `and` or `or`.
+
+&copy; 2026 LogosTeach - All Rights Reserved

@@ -111,3 +111,5 @@ print(z)
 
 ## Submission
 Write your answers and Python code in a script or notebook. Ensure every code block has appropriate comments (aim for clarity). Submit your completed worksheet to your instructor.
+
+&copy; 2026 LogosTeach - All Rights Reserved

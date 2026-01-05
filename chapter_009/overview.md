@@ -228,4 +228,4 @@
 - **Exercises**: Encourage testing with Unit 7’s tools (e.g., `pytest` for input validation functions) and connect to prior units (e.g., data types, loops).
 - **No Operator Overlap**: Unit 2’s operators (`!=`, `not`, `and`, `or`, `^`) are used in validation but not reintroduced.
 
-&copy; 2025 LogosTeach - All Rights Reserved
+&copy; 2026 LogosTeach - All Rights Reserved

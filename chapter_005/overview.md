@@ -183,4 +183,4 @@
     1. Write a function that saves user input to a file, handles errors, and uses a `Path` object.
     2. Refactor a previous file-handling program to include a docstring and meaningful variable names.
 
-&copy; 2025 LogosTeach - All Rights Reserved
+&copy; 2026 LogosTeach - All Rights Reserved

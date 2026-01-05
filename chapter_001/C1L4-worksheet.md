@@ -61,4 +61,4 @@ This worksheet builds on your knowledge from previous lessons (data types, varia
    Use f-strings with alignment, padding, and precision:  
    a. For values from 10/3, 20//4, etc., format a table:  
 
-&copy; 2025 [LogosTeach](https://www.logosteach.com) - All Rights Reserved
+&copy; 2026 [LogosTeach](https://www.logosteach.com) - All Rights Reserved

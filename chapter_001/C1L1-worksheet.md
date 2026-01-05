@@ -72,3 +72,5 @@ quantity = 3
 total_cost = item_price * quantity
 print("Total cost is" + total_cost)
 ```
+
+&copy; 2026 LogosTeach - All Rights Reserved
