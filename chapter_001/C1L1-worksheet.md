@@ -1,4 +1,13 @@
+<script type="text/javascript" 
+  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });
+</script>
+
 # Worksheet - C1L1
+
+Python with a Worldview: Chapter 1 - Lesson 1
 
 ## Variables and Data Types
 
@@ -7,7 +16,7 @@ Complete the following exercises to practice the Python concepts you've learned:
 
 ## Part 1: Data Types and the `type()` Function
 1. **Identify the Data Type**  
-   For each value below, write down its data type (int, float, or str). Then, use the `type()` function in Python to confirm your answer.  
+   For each value below, what do you think its data type is? (int, float, or str) Then, use the `type()` function in Python to confirm your answer.  
    a. `42`  
    b. `"Hello, Python!"`  
    c. `3.14`  
@@ -20,7 +29,7 @@ Complete the following exercises to practice the Python concepts you've learned:
    a. Your age as an integer (e.g., `25`).  
    b. Your height in meters as a float (e.g., `1.75`).  
    c. Your first name as a string (e.g., `"Alex"`).  
-   Print each variable along with its data type using the `type()` function.
+   Print each variable along with its data type. Example: `print("age", type(age))`
 
 3. **Naming Convention Check**  
    Which of the following variable names follow Python naming conventions? For each, explain why or why not.  
@@ -29,6 +38,8 @@ Complete the following exercises to practice the Python concepts you've learned:
    c. `firstName`  
    d. `max_speed_limit`  
    e. `MyVariable`
+
+::: page-break :::
 
 ## Part 3: Order of Operations
 4. **Calculate with Order of Operations**  
@@ -50,14 +61,14 @@ Complete the following exercises to practice the Python concepts you've learned:
    Write Python code to:  
    a. Create a variable `radius` with the value `2.5` (float).  
    b. Calculate the area of a circle using the formula `area = 3.14 * radius ** 2`.  
-   c. Print the area and its data type using the `type()` function.
+   c. Print the area and its data type. Example: print(area, type(area))
 
 7. **Research Online: Debug the Code**  
    The following code has an error related to data types or operations. Identify and fix the issue, then explain what was wrong.  
-   ```python
-   item_price = 2.50
-   quantity = 3
-   total_cost = item_price * quantity
-   print("Total cost is" + total_cost)
 
-&copy; 2025 LogosTeach - All Rights Reserved
+```python
+item_price = 2.50
+quantity = 3
+total_cost = item_price * quantity
+print("Total cost is" + total_cost)
+```

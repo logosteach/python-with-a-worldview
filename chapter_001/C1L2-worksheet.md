@@ -1,3 +1,10 @@
+<script type="text/javascript" 
+  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });
+</script>
+
 # Worksheet - C1L2
 
 ## Printing and Escape Characters
@@ -26,6 +33,8 @@ This worksheet builds on your knowledge from Lesson 1 (data types: int, float, s
    b. A `SyntaxError` (e.g., incorrect syntax like a missing parenthesis).  
    c. A `ZeroDivisionError` (e.g., dividing by zero).  
 
+::: page-break :::
+
 ## Part 3: Escape Characters
 4. **Using Escape Characters**  
    Write Python code to:  
@@ -35,11 +44,11 @@ This worksheet builds on your knowledge from Lesson 1 (data types: int, float, s
 
 5. **Creative Use of Escape Characters**  
    Write Python code to print the following exactly as shown (including spacing):  
-   ```
-   Item        Price
-   Apple       0.50
-   Banana      0.75
-   ```
+```
+Item        Price
+Apple       0.50
+Banana      0.75
+```
 
 ## Part 4: String Multipliers
 6. **String Multiplier Practice**  
@@ -51,48 +60,51 @@ This worksheet builds on your knowledge from Lesson 1 (data types: int, float, s
 ## Part 5: White Space
 7. **Understanding White Space**  
    Explain how white space affects the following code snippets. Then, run them and describe the output.  
-   a. 
-   ```python
-   print("Hello   World")
-   ```
-   b. 
-   ```python
-   print("Hello\tWorld")
-   ```
-   c. 
-   ```python
-   print("Hello\nWorld")
-   ```
+a. 
+```python
+print("Hello   World")
+```
+b. 
+```python
+print("Hello\tWorld")
+```
+
+::: page-break :::
+
+c. 
+```python
+print("Hello\nWorld")
+```
 
 8. **Formatting with White Space and Multipliers**  
    Write Python code to print a simple box-like structure using string multipliers and white space, like this:  
-   ```
-   ******
-   *    *
-   *    *
-   ******
-   ```
+```
+******
+*    *
+*    *
+******
+```
 
 ## Part 6: Mixed Practice
 9. **Debug the Code**  
    The following code has errors related to escape characters, string multipliers, or the `print()` function. Fix the issues and explain what was wrong.  
-   ```python
-   message = "Welcome to Python!"
-   print(message * 2 + \n + "Done!")
-   ```
+```python
+message = "Welcome to Python!"
+print(message * 2 + \n + "Done!")
+```
 
 10. **Combined Concepts**  
     Write Python code to:  
     a. Create a variable `item_name` with the value `"Pizza"`.  
     b. Create a variable `price` with the value `9.99`.  
     c. Use a single `print()` statement with escape characters and a string multiplier to display:  
-    ```
-    Item: Pizza
-    Price: $9.99
-    --------------------
-    ```
+```
+Item: Pizza
+Price: $9.99
+--------------------
+```
 
 ## Submission
 Write your answers and Python code in a script or notebook. Include comments to explain your work. Submit your completed worksheet to your instructor.
 
-&copy; 2025 LogosTeach - All Rights Reserved
+&copy; 2025 [LogosTeach](https://www.logosteach.com) - All Rights Reserved
