@@ -24,10 +24,10 @@ print(f"30.48 cm is exactly {cm_to_inches(30.48):.4f} inches")
 
 Quick explanation for beginners:
 
-    * def starts the function definition
-    * cm_to_inches is the function name (choose clear, descriptive names!)
-•	(cm) is the parameter — the value passed into the function
-•	return sends the calculated result back to where the function was called
-•	You can store the returned value in a variable or use it directly in print()
+•  def tells Python you’re creating a new function
+•  cm_to_inches is the name you choose (make it descriptive!)
+•  (cm) is the parameter — the value you give the function when you call it
+•  return is how the function sends an answer back
+•  You can store the result in a variable or use it directly
 
 © LogoTeach 2026 — All Rights Reserved
