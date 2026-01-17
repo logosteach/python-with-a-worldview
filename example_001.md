@@ -30,4 +30,4 @@ Quick explanation for beginners:
 •  return is how the function sends an answer back
 •  You can store the result in a variable or use it directly
 
-© LogoTeach 2026 — All Rights Reserved
+© LogosTeach 2026 — All Rights Reserved
