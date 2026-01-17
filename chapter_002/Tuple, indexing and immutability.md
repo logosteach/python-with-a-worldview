@@ -1,4 +1,3 @@
-
 # Python Tuples – Quick Guide
 
 ## 1. Creating Tuples
