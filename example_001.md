@@ -23,9 +23,9 @@ print(f"30.48 cm is exactly {cm_to_inches(30.48):.4f} inches")
 ```
 
 Quick explanation for beginners:
+
 	•	def starts the function definition
 	•	cm_to_inches is the function name (choose clear, descriptive names!)
 	•	(cm) is the parameter — the value passed into the function
 	•	return sends the calculated result back to where the function was called
 	•	You can store the returned value in a variable or use it directly in print()
-Feel free to try different centimeter values and see the magic happen! 🚀
