@@ -29,3 +29,5 @@ Quick explanation for beginners:
 	•	(cm) is the parameter — the value passed into the function
 	•	return sends the calculated result back to where the function was called
 	•	You can store the returned value in a variable or use it directly in print()
+
+© LogoTeach 2026 — All Rights Reserved
