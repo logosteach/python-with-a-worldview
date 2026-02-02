@@ -81,5 +81,5 @@ for book in my_bible.books:
     print(f"\t{book}")
 
 """
-copyright 2026 - LogosTeach - All Rights Reserved
+&copy; LogosTeach 2026 - All Rights Reserved
 """
