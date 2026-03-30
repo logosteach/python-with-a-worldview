@@ -148,4 +148,4 @@ Simply type: `deactivate` in your terminal window.
 
 [^1]: [https://docs.python.org/3/tutorial/venv.html](https://docs.python.org/3/tutorial/venv.html)
 
-&copy LogosTeach 2026 - All Rights Reserved
+&copy; LogosTeach 2026 - All Rights Reserved
