@@ -147,3 +147,5 @@ which python                # should point to .venv/bin/python
 Simply type: `deactivate` in your terminal window.
 
 [^1]: [https://docs.python.org/3/tutorial/venv.html](https://docs.python.org/3/tutorial/venv.html)
+
+&copy LogosTeach 2026 - All Rights Reserved
