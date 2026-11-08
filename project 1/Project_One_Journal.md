@@ -46,5 +46,83 @@ This journal is a place to notice what you’re learning, what challenges you, a
 
 ---
 
+## Lesson 4 – [Add a short title]
+**Date:**  
+
+**What I built / changed:**  
+
+**What clicked for me:**  
+
+**What was confusing or took longer than expected:**  
+
+**One thing I want to remember next time:**  
+
+---
+
+## Lesson 5 – [Add a short title]
+**Date:**  
+
+**What I built / changed:**  
+
+**What clicked for me:**  
+
+**What was confusing or took longer than expected:**  
+
+**One thing I want to remember next time:**  
+
+---
+
+## Lesson 6 – [Add a short title]
+**Date:**  
+
+**What I built / changed:**  
+
+**What clicked for me:**  
+
+**What was confusing or took longer than expected:**  
+
+**One thing I want to remember next time:**  
+
+---
+
+## Lesson 7 – [Add a short title]
+**Date:**  
+
+**What I built / changed:**  
+
+**What clicked for me:**  
+
+**What was confusing or took longer than expected:**  
+
+**One thing I want to remember next time:**  
+
+---
+
+## Lesson 8 – [Add a short title]
+**Date:**  
+
+**What I built / changed:**  
+
+**What clicked for me:**  
+
+**What was confusing or took longer than expected:**  
+
+**One thing I want to remember next time:**  
+
+---
+
+## Lesson 9 – [Add a short title]
+**Date:**  
+
+**What I built / changed:**  
+
+**What clicked for me:**  
+
+**What was confusing or took longer than expected:**  
+
+**One thing I want to remember next time:**  
+
+---
+
 ## End-of-Project Reflection
 Looking back at the whole project, what is one skill or habit that grew?
