@@ -165,3 +165,8 @@ class Gator(Sprite):
 
         # For now, we have no animation, and only draw self.frames[0]
         # to the surface.
+
+# Copyright © 2026 John C. Partridge and LogosTeach.
+# These files are for educational purposes only.
+# The copyright and trademark of these files belong to John C. Partridge and LogosTeach.
+

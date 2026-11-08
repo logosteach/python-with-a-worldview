@@ -50,3 +50,7 @@ class StopWatch:
             self.alarm = True
 
         return self.alarm
+# Copyright © 2026 John C. Partridge and LogosTeach.
+# These files are for educational purposes only.
+# The copyright and trademark of these files belong to John C. Partridge and LogosTeach.
+

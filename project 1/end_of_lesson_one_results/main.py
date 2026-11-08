@@ -99,3 +99,7 @@ class Game:
 if __name__ == "__main__":
     game = Game() # create the Game instance
     game.run() # run the main loop. That is it!
+# Copyright © 2026 John C. Partridge and LogosTeach.
+# These files are for educational purposes only.
+# The copyright and trademark of these files belong to John C. Partridge and LogosTeach.
+

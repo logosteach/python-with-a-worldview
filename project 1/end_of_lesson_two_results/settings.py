@@ -142,3 +142,8 @@ class Settings:
         """Return the scaled window size, ensuring scale is at least 1."""
         scale = max(scale, 1)
         return (scale * self.screen_width, scale * self.screen_height)
+
+# Copyright © 2026 John C. Partridge and LogosTeach.
+# These files are for educational purposes only.
+# The copyright and trademark of these files belong to John C. Partridge and LogosTeach.
+

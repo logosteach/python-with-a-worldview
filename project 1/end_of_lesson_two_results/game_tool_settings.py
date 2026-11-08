@@ -36,3 +36,7 @@ class GameToolSettings:
             (self.lb_begin, self.lb_end),
             (self.mb_begin, self.mb_end),
         ]
+# Copyright © 2026 John C. Partridge and LogosTeach.
+# These files are for educational purposes only.
+# The copyright and trademark of these files belong to John C. Partridge and LogosTeach.
+
