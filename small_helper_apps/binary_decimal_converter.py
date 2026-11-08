@@ -309,3 +309,8 @@ if __name__ == "__main__":
     root.mainloop()
     
 # Copyright (c) 2026, LogosTeach - All Rights Reserved. 
+
+# Copyright © 2026 John C. Partridge and LogosTeach.
+# These files are for educational purposes only.
+# The copyright and trademark of these files belong to John C. Partridge and LogosTeach.
+

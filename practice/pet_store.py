@@ -480,3 +480,8 @@ if __name__ == "__main__":
     # This standard line means: run main() when the file is launched
     # directly, but not if some later lesson imports a class from here.
     main()
+
+# Copyright © 2026 John C. Partridge and LogosTeach.
+# These files are for educational purposes only.
+# The copyright and trademark of these files belong to John C. Partridge and LogosTeach.
+
