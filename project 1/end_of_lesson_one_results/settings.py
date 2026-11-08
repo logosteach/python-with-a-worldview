@@ -143,8 +143,6 @@ class Settings:
         scale = max(scale, 1)
         return (scale * self.screen_width, scale * self.screen_height)
 
-Gator Invader, it's copyright and trademark are owned by LogosTeach. and John C. Partridge. These files are for educational purposes only.
-"""
 
 # Copyright © 2026 John C. Partridge and LogosTeach.
 # These files are for educational purposes only.
